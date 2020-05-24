@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRNkB0WT7Wyb9PmMQUCJs1oF+o90HLi6EJ5iR5ZT9X//SZ6h7gh066ud9yH7lDf5TYXUgvKnE7ykUaIo72tlWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thinh\\Downloads\\demo\\demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thinh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
